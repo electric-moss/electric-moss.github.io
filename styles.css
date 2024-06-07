@@ -5,3 +5,7 @@ body {
     background-color: #212121;
     color: #ffffff;
 }
+
+.page-title {
+    text-align: center;
+}
